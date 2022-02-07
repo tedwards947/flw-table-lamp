@@ -1,7 +1,7 @@
 # Intro
 This is my 3D printed take on the Frank Lloyd Wright table lamp he designed for his house Taliesin in Wisconsin. I was inspired by seeing a wooden one in an art museum's gift shop. It was pretty but I didn't want to spend the $ to buy it, so my dad said, "Why don't you just make one?"--so I did! I didn't use any original drawings to help me with this design--it's a reverse engineering and re-imagining using 3D printed plastic instead of wood.
 
-<img src="https://github.com/tedwards947/flw-table-lamp/blob/main/complete.png"/>
+<img src="https://github.com/tedwards947/flw-table-lamp/blob/main/complete.jpg"/>
 
 # Print Orientation
 Here are the various parts you'll need to print, facing the orientation best suited for printing.
